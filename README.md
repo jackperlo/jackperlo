@@ -5,7 +5,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=rust_y_stuffs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=al-got-rithms&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=ARM_assembler&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=concurrent_programming&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=Concurrent-Programming&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jackperlo/jackperlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
