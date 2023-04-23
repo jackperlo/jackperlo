@@ -1,7 +1,11 @@
 ### Hi there, I'm Jack 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackperlo&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackperlo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=rust_y_stuffs)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=bachelor-thesis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=rust_y_stuffs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=al-got-rithms&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=ARM_assembler&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=concurrent_programming&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jackperlo/jackperlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
