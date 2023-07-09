@@ -6,6 +6,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=al-got-rithms&theme=transparent)](https://github.com/jackperlo/al-got-rithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=ARM_assembler&theme=transparent)](https://github.com/jackperlo/ARM_assembler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=Concurrent-Programming&theme=transparent)](https://github.com/jackperlo/Concurrent-Programming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jackperlo&repo=full-stack-react-app&theme=transparent)](https://github.com/jackperlo/Concurrent-Programming](https://github.com/jackperlo/full-stack-react-app)
+
 <!--
 **jackperlo/jackperlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
